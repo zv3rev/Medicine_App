@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="131e90b6-346f-4398-a128-28d94350c00c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/exception/GlobalHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/java/com/relex/medicine/statisticsservice/StatisticsServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/java/com/relex/medicine/statisticsservice/controller/StatisticsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/java/com/relex/medicine/statisticsservice/entity/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/java/com/relex/medicine/statisticsservice/entity/Commentary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/java/com/relex/medicine/statisticsservice/service/StatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statistics-service/src/test/java/com/relex/medicine/statisticsservice/StatisticsServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7b6d10e-4c2a-4719-b68c-874cbb4de250.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f0efb322-4992-4d00-bb8d-7e7624c015ac.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article-service/src/main/java/com/relex/medicine/articleservice/exception/GlobalHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/article-service/src/main/java/com/relex/medicine/articleservice/exception/GlobalHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/controller/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/entity/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/controller/CommentaryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/controller/CommentaryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/service/CommentaryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/service/CommentaryService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/statistics-service" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SQcHgY613xgV3MbbYIDbwfEBob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "import_schema_mapping": "<schema-mapping>\n  <databases>\n    <list>\n      <schema-mapping-item>\n        <source-data-source-id>c7b6d10e-4c2a-4719-b68c-874cbb4de250</source-data-source-id>\n        <source-path>database/&quot;MEDICINE-DB&quot;/schema/&quot;PUBLIC&quot;</source-path>\n        <target-data-source-id>c7b6d10e-4c2a-4719-b68c-874cbb4de250</target-data-source-id>\n        <target-path>database/&quot;MEDICINE-DB&quot;/schema/&quot;ARTICLE&quot;</target-path>\n      </schema-mapping-item>\n    </list>\n  </databases>\n</schema-mapping>",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "C:/YandexDisk/Documents/Medicine_App/statistics-service/src/main/java/com/relex/medicine/statisticsservice/entity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Console",
+    "spring.configuration.checksum": "f6284fd9d0089918e0ed2b91d82d6d2c",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.relex.medicine.statisticsservice.service" />
+      <recent name="com.relex.medicine.commentaryservice.exception" />
+      <recent name="com.relex.medicine.commentaryservice.entity" />
+      <recent name="com.relex.medicine.commentaryservice.request" />
+      <recent name="com.relex.medicine.commentaryservice.response" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\YandexDisk\Documents\Medicine_App\statistics-service\src\main\java\com\relex\medicine\statisticsservice\entity" />
+      <recent name="E:\YandexDisk\Documents\Medicine_App\commentary-service\src\main\java\com\relex\medicine\commentaryservice\exception" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.relex.medicine.commentaryservice.exception" />
+      <recent name="com.relex.medicine.commentaryservice.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.Unnamed">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="ArticleServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CommentaryServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relex.medicine.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArticleServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="article-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relex.medicine.articleservice.ArticleServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommentaryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="commentary-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relex.medicine.commentaryservice.CommentaryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relex.medicine.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="statistics-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relex.medicine.statisticsservice.StatisticsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Spring Boot.StatisticsServiceApplication" />
+      <item itemvalue="Spring Boot.ArticleServiceApplication" />
+      <item itemvalue="Spring Boot.CommentaryServiceApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="131e90b6-346f-4398-a128-28d94350c00c" name="Changes" comment="" />
+      <created>1689060642798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689060642798</updated>
+      <workItem from="1689060643210" duration="5204000" />
+      <workItem from="1689082165818" duration="129000" />
+      <workItem from="1689082377075" duration="83000" />
+      <workItem from="1689082569583" duration="590000" />
+      <workItem from="1689088968074" duration="8231000" />
+      <workItem from="1689141629836" duration="5842000" />
+      <workItem from="1689149343049" duration="10623000" />
+      <workItem from="1689161909362" duration="14152000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added eureka server and client">
+      <created>1689062760385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689062760385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added deleted eureka client and added article service">
+      <created>1689153084250</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689153084250</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added eureka server and client" />
+    <MESSAGE value="Added deleted eureka client and added article service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added deleted eureka client and added article service" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/service/CommentaryService.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/controller/CommentaryController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/controller/CommentaryController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/commentary-service/src/main/java/com/relex/medicine/commentaryservice/service/CommentaryService.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
